@@ -1,0 +1,134 @@
+Class, 		Name,		Guns,	Built
+First Rate, 	Britannia, 	100, 	1762	        
+First Rate, 	Hibernia, 	110, 	1804
+First Rate,	Royal George, 	100, 	1788	
+First Rate, 	Royal Sovereign,100, 	1788	
+First Rate, 	San Josef, 	112, 	 	    
+First Rate, 	Victory, 	100, 	1765	 	
+First Rate, 	Ville de Paris, 110, 	1795
+Second Rate,	Barfleur, 	98, 	1762 	
+Second Rate,	Dreadnought, 	98, 	1801 	
+Second Rate,	Formidable, 	98, 	1777 
+Second Rate,	Glory, 		98, 	1780 	
+Second Rate,	London, 	98, 	1766 
+Second Rate,	Neptune, 	98, 	1797
+Second Rate,	Prince George, 	98, 	1772 
+Second Rate,	Prince of Wales,98, 	1794 
+Second Rate,	Prince, 	98, 	1788
+Second Rate,	Princess Royal, 98, 	1753
+Second Rate,	Queen, 		98, 	1769 
+Second Rate,	St. George, 	98, 	1785
+Second Rate,	Temeraire, 	98, 	1798 
+Second Rate,	Windsor Castle, 98, 	1790 
+Third Rate,	Achille, 	74,	1798
+Third Rate,	Africa, 	64, 	1781 	
+Third Rate,	Agamemnon, 	64, 	1781 	
+Third Rate,	Agincourt, 	64, 	1796 	
+Third Rate,	Ajax, 		74, 	1798 	
+Third Rate,	Albion, 	74,	1802 	
+Third Rate,	Alexander, 	74, 	1778 
+Third Rate,	Alfred, 	74,	1778 	
+Third Rate,	Alkmaar, 	64,
+Third Rate,	Ardent, 	64,	1796 	
+Third Rate,	Atheniene, 	64, 	1800 	 	
+Third Rate,	Atlas, 		74,	1782 	
+Third Rate,	Audacious, 	74,	1785 	
+Third Rate,	Bellerophon, 	74,	1786 	
+Third Rate,	Bellinqueux, 	64,	1780 	
+Third Rate,	Bellisle, 	74, 	
+Third Rate,	Bellona, 	74,	1760 	
+Third Rate,	Blenheim, 	74,	1761
+Third Rate,	Brunswick, 	74,	1790 	
+Third Rate,	Cæsar, 		80,	1793 	
+Third Rate,	Cambridge, 	80,	1750 	
+Third Rate,	Canada, 	74,	1766 	
+Third Rate,	Canopus, 	80, 	
+Third Rate,	Captain, 	74,	1787 	
+Third Rate,	Carnatic, 	74,	1783 	
+Third Rate,	Centaur, 	74,	1797 	
+Third Rate,	Colossus, 	74,	1803 	
+Third Rate,	Conqueror, 	74,	1801 	
+Third Rate,	Courageux, 	74,	1800 	
+Third Rate,	Culloden, 	74,	1783 	
+Third Rate,	Defence, 	74,	1769 	
+Third Rate,	Defiance, 	74,	1783 	
+Third Rate,	Diadem, 	64,	1782 	
+Third Rate,	Dictator, 	64,	1783 	
+Third Rate,	Donnegal, 	80, 	
+Third Rate,	Dragon, 	74,	1798 	
+Third Rate,	Eagle, 		74,	1804 	
+Third Rate,	Edgar, 		74,	1779 	
+Third Rate,	Elephant, 	74,	1786 	
+Third Rate,	Excellent, 	74,	1787 	
+Third Rate,	Foudroyant, 	80,	1798 	
+Third Rate,	Ganges, 	74,	1782 	
+Third Rate,	Gibraltar, 	80, 	
+Third Rate,	Goliath, 	74,	1781 	
+Third Rate,	Guildford, 	74,	
+Third Rate,	Hector, 	74,	1774 	
+Third Rate,	Hercule, 	74, 	
+Third Rate,	Hero, 		74,	1803 	
+Third Rate,	Holstein, 	64, 
+Third Rate,	Illustrious, 	74,	1803 	
+Third Rate,	L'Impetueux, 	80, 	
+Third Rate,	Inflexible, 	64,	1780 	
+Third Rate,	Intrepid, 	64,	1770 	
+Third Rate,	Irresistible, 	74,	1782 	
+Third Rate,	Kent, 		74,	1776 	
+Third Rate,	Lancaster, 	64,	1797 	
+Third Rate,	Leviathan, 	74,	1790 	
+Third Rate,	Lion, 		64,	1777 	
+Third Rate,	Majestic, 	74,	1785 	
+Third Rate,	Malta, 		84, 	
+Third Rate,	Mars, 		74,	1794 	
+Third Rate,	Minotaur, 	74,	1793 	
+Third Rate,	Monarch, 	74,	1760 	
+Third Rate,	Monmouth, 	64,	1796 	
+Third Rate,	Montague, 	74,	1779 	
+Third Rate,	Namur, 		74,	1759 	
+Third Rate,	Northumberland, 74,	1798 	
+Third Rate,	Orion, 		74,	1787 	
+Third Rate,	Overyusel, 	64, 	
+Third Rate,	Plantagenet, 	74,	1801 	
+Third Rate,	Polyphemus, 	64,	1782 	
+Third Rate,	Pompée, 	80, 	
+Third Rate,	Powerful, 	74,	1783 	
+Third Rate,	Prince of Orange,74,
+Third Rate,	Prothée, 	64, 
+Third Rate,	Puissant, 	74, 
+Third Rate,	Raisonable, 	64,	1768 	
+Third Rate,	Ramilies, 	74,	1801 	
+Third Rate,	Renown, 	74,	1798 	
+Third Rate,	Repulse, 	74,	1803 	
+Third Rate,	Resolution, 	74,	1770 	
+Third Rate,	Revenge, 	74,	1805 	
+Third Rate,	Robust, 	74,	1764 	
+Third Rate,	Rochester, 	74,
+Third Rate,	Ruby, 		64,	1776 	
+Third Rate,	Russel, 	74,	1764 	
+Third Rate,	San Antonio, 	74, 
+Third Rate,	Sans Pareil, 	80, 
+Third Rate,	Saturn, 	74,	1786 	
+Third Rate,	Sceptre, 	74,	1803 	
+Third Rate,	Spartiate, 	74, 
+Third Rate,	Spencer, 	74,	1800 	
+Third Rate,	Standard, 	64,	1782 	
+Third Rate,	Stately, 	64,	1784 	
+Third Rate,	Superb, 	74,	1798 	
+Third Rate,	Swiftsure, 	74,	1804 	
+Third Rate,	Terrible, 	74,	1785 	
+Third Rate,	Theseus, 	74,	1805
+Third Rate,	Thunderer, 	74,	1783 	
+Third Rate,	Tigre, 		80,
+Third Rate,	Tonnant, 	80,
+Third Rate,	Tremendous, 	74,	1784 	
+Third Rate,	Trident, 	64,	1768 	
+Third Rate,	Triumph, 	74,	1764
+Third Rate,	Utrecht, 	64, 
+Third Rate,	Vanguard, 	74,	1787 	
+Third Rate,	Vengeance, 	74,	1774 	
+Third Rate,	Veteran, 	64,	1787 	
+Third Rate,	Vigilant, 	64,	1774 	
+Third Rate,	Warrior, 	74,	1781 	
+	
+
